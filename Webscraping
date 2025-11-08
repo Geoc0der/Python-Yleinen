@@ -1,0 +1,4 @@
+#Konfigurointi
+
+Mikäli ohjelma antaa suorituksen yhteydessä ajuriin liittyvän virheilmoituksen 1 pitää safaridriverille myöntää oikeudet terminaalissa komennolla:
+safaridriver --enable
